@@ -1,3 +1,5 @@
+
+
 # Project_Zenith
 <img width="2160" height="1052" alt="Project Kestrel" src="https://github.com/user-attachments/assets/f068f4c0-a0c6-4aae-b1ed-f1a679aa885f" />
 Project Zenith is a developing student organisation aiming to develop a Light multi-modal UAV platform based in Milano-Bovisa
@@ -18,3 +20,19 @@ This First initiative is a  medium-sized UAV currently in development.
 - Estimated Mass range: 3-5 kg
 
 - Estimated Speed range: $(25-40) kms^{-1}$
+  
+## To Do 
+- [ ] Add servo holes  to the wings   
+- [ ] design an electronics channel in the wing for servos and possibly lights
+- [ ] Find the suitable motor and PTW ratio 
+   - Motor mount  
+- [ ] Create a recommended electronics list 
+- [ ] Avionics Bay (internals)
+- [ ] build a prototype
+- [ ] Create a material list
+### Additional 
+- [ ] Create a reduced wingspan variant 
+- [ ] Create a FPV nosecone 
+- [ ] Possible landing gear 
+- [ ] ESP 32 lights kit 
+- [ ] GPS antenna placement 
