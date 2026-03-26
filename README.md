@@ -20,7 +20,12 @@ This First initiative is a  medium-sized UAV currently in development.
 - Estimated Mass range: 3-5 kg
 
 - Estimated Speed range: $(25-40) kms^{-1}$
-  
+
+- Uses carbon fiber spars to reinforce the wing.
+  - two 12mmx500 mm
+  - four 6mmx500mm
+  - six 3mmx200mm
+- The body of the plane will be printed out of LW PLA if possible to reduce weight. 
 ## To Do 
 - [ ] Add servo holes  to the wings   
 - [ ] design an electronics channel in the wing for servos and possibly lights
